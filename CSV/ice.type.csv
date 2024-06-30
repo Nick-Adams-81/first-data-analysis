@@ -1,0 +1,25 @@
+,#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary,Overall Value
+133,124,Jynx,Ice,Psychic,455,65,50,35,115,95,95,1,False,76.0
+156,144,Articuno,Ice,Flying,580,90,85,100,95,125,85,1,True,97.0
+238,220,Swinub,Ice,Ground,250,50,50,40,30,30,50,2,False,42.0
+239,221,Piloswine,Ice,Ground,450,100,100,80,60,60,50,2,False,75.0
+243,225,Delibird,Ice,Flying,330,45,55,45,65,45,75,2,False,55.0
+257,238,Smoochum,Ice,Psychic,305,45,30,15,85,65,65,2,False,51.0
+395,361,Snorunt,Ice,,300,50,50,50,50,50,50,3,False,50.0
+396,362,Glalie,Ice,,480,80,80,80,80,80,80,3,False,80.0
+397,362,GlalieMega Glalie,Ice,,580,80,120,80,120,80,100,3,False,97.0
+398,363,Spheal,Ice,Water,290,70,40,50,55,50,25,3,False,48.0
+399,364,Sealeo,Ice,Water,410,90,60,70,75,70,45,3,False,68.0
+400,365,Walrein,Ice,Water,530,110,80,90,95,90,65,3,False,88.0
+415,378,Regice,Ice,,580,80,50,100,100,200,50,3,True,97.0
+522,471,Glaceon,Ice,,525,65,60,110,130,95,65,4,False,88.0
+524,473,Mamoswine,Ice,Ground,530,110,130,80,70,60,80,4,False,88.0
+530,478,Froslass,Ice,Ghost,480,70,80,70,80,70,110,4,False,80.0
+643,582,Vanillite,Ice,,305,36,50,50,65,60,44,5,False,51.0
+644,583,Vanillish,Ice,,395,51,65,65,80,75,59,5,False,66.0
+645,584,Vanilluxe,Ice,,535,71,95,85,110,95,79,5,False,89.0
+674,613,Cubchoo,Ice,,305,55,70,40,60,40,40,5,False,51.0
+675,614,Beartic,Ice,,485,95,110,80,70,80,50,5,False,81.0
+676,615,Cryogonal,Ice,,485,70,50,30,95,135,105,5,False,81.0
+788,712,Bergmite,Ice,,304,55,69,85,32,35,28,6,False,51.0
+789,713,Avalugg,Ice,,514,95,117,184,44,46,28,6,False,86.0

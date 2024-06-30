@@ -1,0 +1,32 @@
+,#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary,Overall Value
+212,197,Umbreon,Dark,,525,95,65,110,60,130,65,2,False,88.0
+213,198,Murkrow,Dark,Flying,405,60,85,42,85,42,91,2,False,68.0
+233,215,Sneasel,Dark,Ice,430,55,95,55,35,75,115,2,False,72.0
+246,228,Houndour,Dark,Fire,330,45,60,30,80,50,65,2,False,55.0
+247,229,Houndoom,Dark,Fire,500,75,90,50,110,80,95,2,False,83.0
+248,229,HoundoomMega Houndoom,Dark,Fire,600,75,90,90,140,90,115,2,False,100.0
+284,261,Poochyena,Dark,,220,35,55,35,30,30,35,3,False,37.0
+285,262,Mightyena,Dark,,420,70,90,70,60,60,70,3,False,70.0
+326,302,Sableye,Dark,Ghost,380,50,75,75,65,65,50,3,False,63.0
+327,302,SableyeMega Sableye,Dark,Ghost,480,50,85,125,85,115,20,3,False,80.0
+392,359,Absol,Dark,,465,65,130,60,75,60,75,3,False,78.0
+393,359,AbsolMega Absol,Dark,,565,65,150,60,115,60,115,3,False,94.0
+478,430,Honchkrow,Dark,Flying,505,100,125,52,105,52,71,4,False,84.0
+512,461,Weavile,Dark,Ice,510,70,120,65,45,85,125,4,False,85.0
+549,491,Darkrai,Dark,,600,70,90,90,135,90,125,4,True,100.0
+568,509,Purrloin,Dark,,281,41,50,37,50,37,66,5,False,47.0
+569,510,Liepard,Dark,,446,64,88,50,88,50,106,5,False,74.0
+620,559,Scraggy,Dark,Fighting,348,50,75,70,35,70,48,5,False,58.0
+621,560,Scrafty,Dark,Fighting,488,65,90,115,45,115,58,5,False,81.0
+631,570,Zorua,Dark,,330,40,65,40,80,40,65,5,False,55.0
+632,571,Zoroark,Dark,,510,60,105,60,120,60,105,5,False,85.0
+685,624,Pawniard,Dark,Steel,340,45,85,70,40,40,60,5,False,57.0
+686,625,Bisharp,Dark,Steel,490,65,125,100,60,70,70,5,False,82.0
+690,629,Vullaby,Dark,Flying,370,70,55,75,45,65,60,5,False,62.0
+691,630,Mandibuzz,Dark,Flying,510,110,65,105,55,95,80,5,False,85.0
+694,633,Deino,Dark,Dragon,300,52,65,50,45,50,38,5,False,50.0
+695,634,Zweilous,Dark,Dragon,420,72,85,70,65,70,58,5,False,70.0
+696,635,Hydreigon,Dark,Dragon,600,92,105,90,125,90,98,5,False,100.0
+756,686,Inkay,Dark,Psychic,288,53,54,53,37,46,45,6,False,48.0
+757,687,Malamar,Dark,Psychic,482,86,92,88,68,75,73,6,False,80.0
+793,717,Yveltal,Dark,Flying,680,126,131,95,131,98,99,6,True,113.0
